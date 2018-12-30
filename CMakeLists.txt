@@ -8,8 +8,6 @@ include_directories(serial_handler)
 include_directories(serial_handler/RS-232)
 
 add_executable(roi_handler
-        serial_handler/RS-232/demo_rx.c
-        serial_handler/RS-232/demo_tx.c
         serial_handler/RS-232/rs232.c
         serial_handler/RS-232/rs232.h
         serial_handler/serial_handler.cpp
