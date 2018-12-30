@@ -1,0 +1,3 @@
+[submodule "serial_handler"]
+	path = serial_handler
+	url = git@github.com:LMBernardo/serial_handler.git
