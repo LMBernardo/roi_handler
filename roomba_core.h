@@ -24,7 +24,7 @@
 #include <string>
 
 // Serial handler library
-#include "serial_handler.h"
+#include "RS-232/serial_handler.h"
 
 class roomba_core
 {
